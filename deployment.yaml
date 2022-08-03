@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: nginxcontainer
-        image: melihselamiurkmez/dtcloud
+        image: dt-cloudteam/spec
         resources:
           limits:
             memory: "128Mi"
